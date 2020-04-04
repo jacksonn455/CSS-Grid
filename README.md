@@ -7,6 +7,7 @@ CSS Grid: Simplificando layouts
 - Estilizando a seção de populares
 - Estilizando o cabeçalho, menu e rodapé
 - Deixando o site responsivo
+- Acesso em: https://jacksonn455.github.io/CSS-Grid
 
 --------------------
  ![](https://github.com/jacksonn455/CSS-Grid/blob/master/img.png)
